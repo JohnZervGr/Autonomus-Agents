@@ -1,0 +1,11 @@
+Webots Project File version R2025a
+perspectives: 000000ff00000000fd0000000200000001000001d4000002eafc0200000001fb0000001400540065007800740045006400690074006f00720100000017000002ea0000008900ffffff000000030000073e000000d9fc0100000001fb0000001a0043006f006e0073006f006c00650041006c006c0041006c006c01000000000000073e0000006900ffffff00000568000002ea00000001000000020000000100000008fc00000000
+simulationViewPerspectives: 000000ff0000000100000002000001010000051f0100000002010000000100
+sceneTreePerspectives: 000000ff00000001000000030000001c000002ad000000fa0100000002010000000200
+maximizedDockId: -1
+centralWidgetVisible: 1
+orthographicViewHeight: 1
+textFiles: 2 "../../Lab1/nao/controllers/nao_team_1/nao_team_1.java" "../../Lab1/nao/controllers/nao_team_1/SoccerPlayer.java" "../../Lab1/nao/controllers/nao_team_1/FieldPlayer.java" "../../Lab1/nao/controllers/nao_team_1/Player.java"
+consoles: Console:All:All
+renderingDevicePerspectives: nao(1):CameraBottom;1;0.965615;0.0245219;0.528505
+renderingDevicePerspectives: nao(1):CameraTop;1;0.965615;0.0219495;0.387941
